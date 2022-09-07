@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/sandrapenha01.lwc-l7s3dd0b-fork-l7s3kvsx",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 68ix3OcwPRoNGEUKNtwM --open"
+  }
+}
